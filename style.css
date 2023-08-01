@@ -1,0 +1,132 @@
+
+.kmb-control-panel-page, .kmb-modal, body, html{
+    color: #231a50;
+    font-family: "Open Sans",sans-serif;
+    line-height: 1.4;
+    font-weight: 400;
+    font-size: 14px;
+}
+body {
+    margin: 0;
+}
+* {
+    scrollbar-color: #e9e8ed transparent;
+    scrollbar-width: thin;
+}
+* {
+    scrollbar-color: #e9e8ed transparent;
+    scrollbar-width: thin;
+}
+*, :after, :before {
+    box-sizing: border-box;
+    border: 0 solid #dae1e7;
+}
+user agent stylesheet
+body {
+    display: block;
+    margin: 8px;
+}
+<style>
+:root {
+    --bodyBg: #121212;
+    --bodyColor: #2153E4;
+    --bodyFontFamily: 'Lato', sans-serif;
+    --bodyFontSize: 16px;
+    --bodyFontWeight: 300;
+    --bodyFontStyle: normal;
+    --bodyLineHeight: 1.2;
+    --bodyTextTransform: inherit;
+    --bodyTextLetterSpacing: inherit;
+    --primaryFont: 'Playfair Display', serif;
+    --secondaryFont: 'Lato', sans-serif;
+    --pageContainer: 1150px;
+    --primaryColor: #FFFFFF;
+    --secondaryColor: #5DAFFD;
+    --accentColor: #2272FF;
+    --mutedColor: #2153E4;
+    --fifthColor: #000000;
+    --sixthColor: #000000;
+    --seventhColor: #121212;
+    --whiteColor: #FFFFFF;
+    --blackColor: #000000;
+    --transparentColor: transparent;
+    --primaryBorder: 1px solid #FFFFFF;
+    --secondaryBorder: 1px solid #5DAFFD;
+    --accentBorder: 1px solid #2272FF;
+    --borderRadius: 0;
+    --headerBg: #2153E4;
+    --headerColor: #FFFFFF;
+    --headerHoverColor: #5DAFFD;
+    --headerActiveColor: #5DAFFD;
+    --headerFontFamily: 'Lato', sans-serif;
+    --headerFontSize: 16px;
+    --headerFontWeight: 400;
+    --headerFontStyle: normal;
+    --headerLineHeight: 1.2;
+    --headerTextTransform: inherit;
+    --footerBg: #000000;
+    --footerColor: #2153E4;
+    --footerFontFamily: 'Lato', sans-serif;
+    --footerFontSize: 16px;
+    --footerFontWeight: 400;
+    --footerFontStyle: normal;
+    --footerLineHeight: 1.2;
+    --footerTextTransform: inherit;
+    --headlineH1Color: #5DAFFD;
+    --headlineH1FontFamily: 'Playfair Display', serif;
+    --headlineH1FontSize: 58px;
+    --headlineH1FontWeight: 400;
+    --headlineH1FontStyle: italic;
+    --headlineH1LineHeight: 1.2;
+Show All Properties (212 more)
+}
+<style>
+:root {
+    --HSDSGlobalFontFamily: "Aktiv Grotesk","Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+    --HSDSGlobalFontFamilySystem: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+    --HSDSGlobalFontFamilyMono: "SFMono-Regular",Consolas,"Liberation Mono",Menlo,Courier,monospace;
+    --HSDSGlobalFontSize: 13px;
+}
+:root {
+    --animate-duration: 1s;
+    --animate-delay: 1s;
+    --animate-repeat: 1;
+}
+html {
+    font-family: system-ui,BlinkMacSystemFont,-apple-system,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;
+    line-height: 1.5;
+}
+html {
+    line-height: 1.15;
+    -webkit-text-size-adjust: 100%;
+}
+*, :after, :before {
+    box-sizing: border-box;
+    border: 0 solid #dae1e7;
+}
+*, :after, :before {
+    box-sizing: border-box;
+    border: 0 solid #dae1e7;
+}
+::-webkit-scrollbar {
+    width: 7px;
+    height: 5px;
+}
+::-webkit-scrollbar {
+    width: 7px;
+    height: 5px;
+}
+::-webkit-scrollbar-thumb {
+    background-color: #e9e8ed;
+    border-radius: 24px;
+}
+::-webkit-scrollbar-thumb {
+    background-color: #e9e8ed;
+    border-radius: 24px;
+}
+::-webkit-scrollbar-track {
+    background-color: transparent;
+}
+::-webkit-scrollbar-track {
+    background-color: transparent;
+}
